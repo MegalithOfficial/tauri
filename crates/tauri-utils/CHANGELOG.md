@@ -1,5 +1,11 @@
 # Changelog
 
+## [3.0.0-alpha.4]
+
+### New Features
+
+- [`7cf5d9032`](https://www.github.com/tauri-apps/tauri/commit/7cf5d903221d1400c0d256cbbff3a46d2d55781e) ([#16198](https://www.github.com/tauri-apps/tauri/pull/16198) by [@Vishal-770](https://www.github.com/tauri-apps/tauri/../../Vishal-770)) Add `bundle > linux > deb > compression` config option to control Debian bundle compression type and level.
+
 ## [3.0.0-alpha.3]
 
 ### Breaking Changes
